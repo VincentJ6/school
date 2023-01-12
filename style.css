@@ -1,3 +1,8 @@
+.resize{
+  width: 30%;
+margin-left:auto;
+margin-right: auto;
+}
 html, body {
   height: 100%;
   width: 100%;
